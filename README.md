@@ -2504,6 +2504,11 @@ Paper-backed implementations are linked beside their papers above. The following
    vshulcz. [[GitHub](https://github.com/vshulcz/deja-vu)] [[Docs](https://vshulcz.github.io/deja-vu/)]\
    ![](https://img.shields.io/badge/-Product-lightgrey) ![](https://img.shields.io/badge/-Local_First-purple) ![](https://img.shields.io/badge/-Coding_Agents-purple) ![](https://img.shields.io/badge/-MCP-yellowgreen)
 
+1. **SoloPup Memory (public beta)**\
+   OakcoderX. [[GitHub](https://github.com/OakcoderX/solopup-memory)] [[Docs](https://github.com/OakcoderX/solopup-memory/blob/main/README.en.md)]\
+   Native DeepSeek Harness text-memory plugin with source references, project scope, and correction history. Lexical recall may miss synonyms and cross-language matches; model-assisted review can make mistakes.\
+   ![](https://img.shields.io/badge/-Product-lightgrey) ![](https://img.shields.io/badge/-Public_Beta-orange) ![](https://img.shields.io/badge/-Text_Memory-purple)
+
 [⬆️ top](#table-of-contents)
 
 ## Citation
